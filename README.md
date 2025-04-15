@@ -24,11 +24,7 @@ The dataset comprises 150 samples (75 quake, 75 noise) fetched from IRIS (networ
    ```bash
    git clone https://github.com/ssutharya/ChaosNet-Seismic.git
    ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the notebook:
+2. Run the notebook:
    ```bash
    jupyter notebook Earthquake.ipynb
    ```
